@@ -12,5 +12,6 @@ public class activity_greeting extends AppCompatActivity {
         setContentView(R.layout.activity_greeting);
 	System.out.println("this is to illustrate git conflict when dealing with multiple repos");
 	int g = 7; 
+	int s = 4;//this is just for example purpose
     }
 }
