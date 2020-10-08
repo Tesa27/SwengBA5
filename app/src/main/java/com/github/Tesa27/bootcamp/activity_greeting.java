@@ -10,5 +10,6 @@ public class activity_greeting extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_greeting);
+	System.out.println("this is to illustrate git conflict when dealing with multiple repos");
     }
 }
